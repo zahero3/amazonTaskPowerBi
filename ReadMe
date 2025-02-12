@@ -1,0 +1,15 @@
+Power BI Project Tracking Dashboard
+
+This repository contains the Power BI dashboard created to track and analyze the project data from a mining company. The dashboard includes interactive visualizations and key metrics for evaluating the performance of various projects across different areas.
+
+Features:
+
+	•	Total Budgets Overview: Cumulative totals for Budget Sought, Budget Required, and Budget Approved using dynamic cards.
+	•	Project Status: Visualization of project counts categorized by Project Status (Planned/Ongoing/Executed, On-Hold, Dropped).
+	•	Execution Status: Project counts by Execution Status (On-track, Risk of Delay, Delayed, Not yet started).
+	•	Category & Area of Concern: Clustered bar-graph visualizing project counts across different categories and areas of concern.
+	•	Traffic Light vs No. of Projects: Bar graph visualizing the status of projects with proper color sorting for traffic lights.
+	•	Execution Status Table: A table showing execution status by project level, with count of projects.
+	•	Actual Benefit Accrual: Measure to calculate and visualize actual benefit accrual for each category.
+	•	Global Slicers: Dropdown menus for Priority, Project Level, Project Status, Budget Type, and more to filter all visualizations dynamically.
+	•	Sales Data Time Intelligence: Line graph to compare cumulative sales for the current month, previous month, and same month last year (under development).
